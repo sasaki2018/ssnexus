@@ -12,7 +12,7 @@ import 'package:flutter_test/flutter_test.dart';
 
 // Provide a minimal MyApp implementation for the test environment
 class MyApp extends StatefulWidget {
-  const MyApp({super.key});
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   State<MyApp> createState() => _MyAppState();
