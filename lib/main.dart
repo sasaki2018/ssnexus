@@ -42,7 +42,7 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
     {
       "titulo": "SSWORDS",
       "desc": "Un juego de palabras desafiante con múltiples modos de juego y un sistema de ordenamiento para el registro histórico.",
-      "url": "https://www.mediafire.com/file/yggpb7c3j1orw70/sswords.apk/file",
+      "url": "https://www.mediafire.com/file/56y69j8c95vugk4/SSWords.apk/file",
       "ad": false,
       "caratula": "assets/juegos/sswords/caratula.png",
       "tags": ["#Palabras", "#Puzzle", "#Casual"],
@@ -238,7 +238,7 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
                 ),
                 const SizedBox(height: 10),
                 Text(
-                  "SHADOW SYSTEMS",
+                  "Team Shadow Studios",
                   style: TextStyle(
                     fontSize: 14,
                     color: Colors.cyanAccent.withValues(alpha: 0.8),
@@ -260,7 +260,7 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
                 ),
                 const SizedBox(height: 80),
                 Text(
-                  "SHADOW SYSTEMS © 2026",
+                  "Team Shadow Studios © 2026",
                   style: TextStyle(
                     color: Colors.white.withValues(alpha: 0.5),
                     fontSize: 12,
@@ -270,7 +270,7 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
                 ),
                 const SizedBox(height: 8),
                 Text(
-                  "Desarrollado por Leiver Leandro | Sasaki2019",
+                  "Desarrollado por Leiver Leandro | Team Shadow",
                   style: TextStyle(
                     color: Colors.cyanAccent.withValues(alpha: 0.4),
                     fontSize: 10,
