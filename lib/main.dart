@@ -54,12 +54,12 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
       ]
     },
     {
-      "titulo": "PROYECTO JUEGO 2",
+      "titulo": "PROYECTO EN DESARROLLO",
       "desc": "Concepto de videojuego en etapa de planificación. Los detalles técnicos y narrativos permanecen clasificados por el momento.",
       "url": "",
       "ad": true,
       "caratula": "assets/caratula_juego2.png",
-      "tags": ["#Terror", "#Sigilo", "#Supervivencia"],
+      "tags": ["#Terror", "#Sigilo", "#Beta"],
       "imagenes": [
         "assets/placeholder_1.png",
         "assets/placeholder_2.png"
@@ -69,7 +69,7 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
 
   final List<Map<String, dynamic>> datosAplicaciones = [
     {
-      "titulo": "PROYECTO APP 1",
+      "titulo": "PROYECTO EN DESARROLLO",
       "desc": "Herramienta de software en desarrollo. Enfocada en ofrecer soluciones prácticas y optimización para los usuarios.",
       "url": "assets/descargas/app1.apk",
       "ad": false,
@@ -84,7 +84,7 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
 
   final List<Map<String, dynamic>> datosProximos = [
     {
-      "titulo": "PROYECTO DESCONOCIDO",
+      "titulo": "PROYECTO EN DESARROLLO",
       "desc": "Nueva experiencia en fase de concepto inicial. Los detalles de desarrollo y mecánicas principales permanecen confidenciales.",
       "url": "",
       "ad": false,
