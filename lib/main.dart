@@ -42,7 +42,7 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
     {
       "titulo": "SSWORDS",
       "desc": "Un juego de palabras desafiante con múltiples modos de juego y un sistema de ordenamiento para el registro histórico.",
-      "url": "https://www.mediafire.com/file/56y69j8c95vugk4/SSWords.apk/file",
+      "url": "https://www.mediafire.com/file/8efpc9ibccst5jm/SSWords.apk/file",
       "ad": false,
       "caratula": "assets/juegos/sswords/caratula.png",
       "tags": ["#Palabras", "#Puzzle", "#Casual"],
